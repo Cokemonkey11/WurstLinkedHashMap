@@ -1,3 +1,6 @@
+wurstdoktor's done a poor job on docs:
+
+```
 ---
 - Package:
     doc: ~
@@ -12,3 +15,4 @@
       - doc: ~
         name: LinkedHashMapCallback<K
         fns: []
+```
